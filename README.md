@@ -58,4 +58,13 @@ This repository is automatically updated with my accepted LeetCode submissions u
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0438-find-all-anagrams-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0438-find-all-anagrams-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
