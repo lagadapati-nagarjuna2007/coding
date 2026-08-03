@@ -63,8 +63,17 @@ This repository is automatically updated with my accepted LeetCode submissions u
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0438-find-all-anagrams-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
