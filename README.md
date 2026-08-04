@@ -63,6 +63,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
@@ -72,10 +73,20 @@ This repository is automatically updated with my accepted LeetCode submissions u
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0523-continuous-subarray-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
