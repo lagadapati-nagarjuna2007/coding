@@ -53,6 +53,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0344-reverse-string) |
 ## String
@@ -73,6 +74,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0260-single-number-iii) |
@@ -97,6 +99,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
