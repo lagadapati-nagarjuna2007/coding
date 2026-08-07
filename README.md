@@ -53,6 +53,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -72,6 +73,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0560-subarray-sum-equals-k) |
@@ -91,4 +93,16 @@ This repository is automatically updated with my accepted LeetCode submissions u
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0523-continuous-subarray-sum) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
