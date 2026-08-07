@@ -64,6 +64,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0001-two-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0560-subarray-sum-equals-k) |
@@ -74,6 +75,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0238-product-of-array-except-self) |
