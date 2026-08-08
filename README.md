@@ -53,6 +53,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0344-reverse-string) |
@@ -76,6 +77,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0238-product-of-array-except-self) |
@@ -115,4 +117,8 @@ This repository is automatically updated with my accepted LeetCode submissions u
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0260-single-number-iii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
