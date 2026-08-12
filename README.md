@@ -78,6 +78,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
 |  |
 | ------- |
@@ -92,6 +93,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0523-continuous-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -99,6 +101,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0523-continuous-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -141,4 +144,8 @@ This repository is automatically updated with my accepted LeetCode submissions u
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
