@@ -8,7 +8,7 @@ public:
             {
                 count_zeroes++;
             }
-            while(count_zeroes>k)
+            if(count_zeroes>k)
             {
                 if(nums[l]==0)
                 {
