@@ -74,12 +74,14 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0438-find-all-anagrams-in-a-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
 |  |
@@ -97,6 +99,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0560-subarray-sum-equals-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
