@@ -1,19 +1,21 @@
 class Solution {
 public:
     vector<int> findAnagrams(string s, string p) {
-        int r,l=0,count=p.size();
-        unordered_map<char,int>mp;
+        int r,l=0,count=p.size(),i;
+        unordered_map<int,int>mp;
         vector<int>res;
-        for(auto i:p)
+        for(i=0;i<p.size();i++)
         {
-            mp[i]++;
+            mp[p[i]]++;
         }
         for(r=0;r<s.size();r++)
         {
             char ch=s[r];
             int val=mp[ch];
             if(val>0)
+            {
             count--;
+            }
             mp[ch]=val-1;
             if(r-l+1>p.size())
             {
@@ -21,16 +23,16 @@ public:
                 int leftval=mp[leftchar];
                 if(leftval>=0)
                 {
-                count++;
+                    count++;
                 }
                 mp[leftchar]=leftval+1;
                 l++;
             }
-                if(count==0)
+                 if(count==0)
                 {
-                    res.push_back(l);
+                res.push_back(l);
                 }
-            }
+        }
         return res;
     }
 };
