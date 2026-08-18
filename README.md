@@ -95,6 +95,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0035-search-insert-position](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0075-sort-colors) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0260-single-number-iii) |
@@ -164,6 +165,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | ------- |
 | [0035-search-insert-position](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1004-max-consecutive-ones-iii) |
