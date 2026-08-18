@@ -92,6 +92,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0001-two-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0209-minimum-size-subarray-sum) |
@@ -161,6 +162,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0713-subarray-product-less-than-k) |
