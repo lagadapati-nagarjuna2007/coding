@@ -118,6 +118,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0523-continuous-subarray-sum) |
 ## Pigeonhole Principle
 |  |
@@ -160,6 +161,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1004-max-consecutive-ones-iii) |
@@ -176,4 +178,8 @@ This repository is automatically updated with my accepted LeetCode submissions u
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/3477-fruits-into-baskets-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
