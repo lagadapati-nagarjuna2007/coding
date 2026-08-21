@@ -93,6 +93,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0001-two-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0015-3sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0075-sort-colors) |
@@ -167,6 +168,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
