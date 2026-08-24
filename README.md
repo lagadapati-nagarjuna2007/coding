@@ -96,6 +96,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0162-find-peak-element) |
@@ -171,6 +172,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0209-minimum-size-subarray-sum) |
@@ -193,4 +195,8 @@ This repository is automatically updated with my accepted LeetCode submissions u
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0069-sqrtx) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
