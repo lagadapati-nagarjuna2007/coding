@@ -115,6 +115,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0904-fruit-into-baskets](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [3477-fruits-into-baskets-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/3477-fruits-into-baskets-ii) |
 ## Prefix Sum
@@ -187,6 +188,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0875-koko-eating-bananas](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [3477-fruits-into-baskets-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
