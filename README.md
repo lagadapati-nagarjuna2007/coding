@@ -116,6 +116,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [1004-max-consecutive-ones-iii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [3477-fruits-into-baskets-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/3477-fruits-into-baskets-ii) |
 ## Prefix Sum
@@ -143,6 +144,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | ------- |
 | [0015-3sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0075-sort-colors) |
+| [1552-magnetic-force-between-two-balls](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1552-magnetic-force-between-two-balls) |
 ## Quicksort
 |  |
 | ------- |
@@ -189,6 +191,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [1004-max-consecutive-ones-iii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [3477-fruits-into-baskets-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
