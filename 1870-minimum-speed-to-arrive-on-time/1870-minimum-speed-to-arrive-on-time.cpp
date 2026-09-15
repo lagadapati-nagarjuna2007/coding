@@ -1,13 +1,12 @@
 class Solution {
 public:
     int minSpeedOnTime(vector<int>& dist, double hour) {
-        int l=1,ans=-1,r=1e7;
-        double hours;
+        long long l=1,ans=-1;
+        long long  r=10000000;
         while(l<=r)
         {
-            hours=0.0;
-            int mid=l+(r-l)/2;
-            if(check(dist,hour,mid))
+            long long mid=l+(r-l)/2;
+            if(ischeck(dist,hour,mid))
             {
                 ans=mid;
                 r=mid-1;
@@ -19,21 +18,22 @@ public:
         }
         return ans;
     }
-        bool check(vector<int>& dist, double hour,int speed)
+    int ischeck(vector<int>& dist, double hour,long long mid)
+    {
+        int i;
+        double time=0.0;
+        for(i=0;i<dist.size();i++)
         {
-            double time=0.0;
-            for(int i=0;i<dist.size();i++)
-            {
-                double t=(double)dist[i]/speed;
-                if(i!=dist.size()-1)
-                {
-                    time+=ceil(t);
-                }
-                else
-                {
-                    time+=t;
-                }
-            }
-            return time<=hour;
+            double t=(double) dist[i]/mid;
+        if(i!=dist.size()-1)
+        {
+            time+=ceil(t);
         }
-    };
+        else
+        {
+            time+=t;
+        }
+        }
+        return time<=hour;
+    }
+};
