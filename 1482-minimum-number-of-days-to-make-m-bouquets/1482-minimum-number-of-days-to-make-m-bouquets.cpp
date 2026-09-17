@@ -1,13 +1,12 @@
 class Solution {
 public:
     int minDays(vector<int>& bloomDay, int m, int k) {
-        int l=*min_element(bloomDay.begin(),bloomDay.end());
+        int l=1,ans=-1;
         int r=*max_element(bloomDay.begin(),bloomDay.end());
-        int ans=-1;
         while(l<=r)
         {
             int mid=l+(r-l)/2;
-            if(check(bloomDay,m,k,mid))
+            if(ischeck(bloomDay,m,k,mid))
             {
                 ans=mid;
                 r=mid-1;
@@ -19,24 +18,25 @@ public:
         }
         return ans;
     }
-    bool check(vector<int>& bloomDay, int m, int k,int dist)
-    {
-        int i,count=0,b=0;
-        for(i=0;i<bloomDay.size();i++)
+        int ischeck(vector<int>& bloomDay, int m, int k,int day)
         {
-            if(bloomDay[i]<=dist)
+            int b=0,count=0;
+            for(auto p:bloomDay)
             {
+                if(p<=day)
+                {
                     count++;
-            if(count==k)
-            {
-                b++;
-                count=0;
-            }}
-            else
-            {
-                count=0;
-            }   
+                    if(count==k)
+                    {
+                        count=0;
+                        b++;
+                    }
+                }
+                else
+                {
+                    count=0;
+                }
+            }
+            return b>=m;
         }
-        return b>=m;
-    }
 };
