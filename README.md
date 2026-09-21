@@ -75,6 +75,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0001-two-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0904-fruit-into-baskets) |
@@ -108,6 +109,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0260-single-number-iii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0260-single-number-iii) |
 | [0410-split-array-largest-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0713-subarray-product-less-than-k) |
@@ -174,10 +176,12 @@ This repository is automatically updated with my accepted LeetCode submissions u
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
