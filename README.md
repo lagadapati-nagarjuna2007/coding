@@ -115,6 +115,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0560-subarray-sum-equals-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1004-max-consecutive-ones-iii) |
@@ -179,12 +180,14 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0042-trapping-rain-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
