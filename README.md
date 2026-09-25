@@ -100,6 +100,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0042-trapping-rain-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0075-sort-colors) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0189-rotate-array) |
@@ -139,6 +140,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0523-continuous-subarray-sum) |
 ## Pigeonhole Principle
@@ -178,6 +180,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0739-daily-temperatures) |
