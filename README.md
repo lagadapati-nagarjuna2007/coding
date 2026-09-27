@@ -66,6 +66,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0680-valid-palindrome-ii) |
@@ -143,6 +144,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0069-sqrtx](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0523-continuous-subarray-sum) |
 ## Pigeonhole Principle
 |  |
@@ -182,6 +184,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0735-asteroid-collision) |
