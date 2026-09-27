@@ -116,6 +116,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0560-subarray-sum-equals-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0904-fruit-into-baskets) |
@@ -183,6 +184,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0150-evaluate-reverse-polish-notation](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -219,6 +221,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0735-asteroid-collision) |
 | [3477-fruits-into-baskets-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
