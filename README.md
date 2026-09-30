@@ -51,8 +51,8 @@ This repository is automatically updated with my accepted LeetCode submissions u
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0042-trapping-rain-water) |
@@ -63,8 +63,8 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0680-valid-palindrome-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0844-backspace-string-compare) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0227-basic-calculator-ii) |
@@ -73,8 +73,8 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0680-valid-palindrome-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0844-backspace-string-compare) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -83,8 +83,8 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0560-subarray-sum-equals-k](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -92,8 +92,8 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0904-fruit-into-baskets](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0015-3sum) |
@@ -131,8 +131,8 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [3477-fruits-into-baskets-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/3477-fruits-into-baskets-ii) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0410-split-array-largest-sum) |
@@ -142,49 +142,49 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0724-find-pivot-index](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0069-sqrtx](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0523-continuous-subarray-sum) |
 ## Pigeonhole Principle
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0523-continuous-subarray-sum) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0075-sort-colors) |
 | [1552-magnetic-force-between-two-balls](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1552-magnetic-force-between-two-balls) |
 ## Quicksort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0075-sort-colors) |
 ## Bubble Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0075-sort-colors) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0260-single-number-iii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0260-single-number-iii) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0410-split-array-largest-sum) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -195,16 +195,16 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0739-daily-temperatures](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0739-daily-temperatures) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0035-search-insert-position) |
@@ -224,34 +224,34 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [3477-fruits-into-baskets-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/3477-fruits-into-baskets-ii) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0735-asteroid-collision](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0844-backspace-string-compare) |
 | [3477-fruits-into-baskets-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/3477-fruits-into-baskets-ii) |
 ## Newton's Method
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0069-sqrtx](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0069-sqrtx) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0240-search-a-2d-matrix-ii) |
 ## Range Minimum/Maximum Query
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
