@@ -5,27 +5,22 @@ public:
     }
     string build(string str)
     {
-        stack<int>s;
         string str1;
-        for(char ch:str)
+        int count=0;
+        for(int i=str.size()-1;i>=0;i--)
         {
-            if(ch=='#')
+            if(str[i]=='#')
             {
-                if(!s.empty())
-                {
-                    s.pop();
-                }
+                count++;
+            }
+            else if(count>=1)
+            {
+                count--;
             }
             else
             {
-                s.push(ch);
-            }
-        }
-        while(!s.empty())
-        {
-            str1+=s.top();
-            s.pop();
-        }
+                str1.push_back(str[i]);
+            }}
         return str1;
     }
 };
