@@ -6,14 +6,9 @@ public:
        int count=0;
        for(i=0;i<s.size();i++)
        {
-        while(!st.empty() && s[st.top()]==s[i])
+        if(!st.empty() && s[st.top()]==s[i])
         {
             st.pop();
-            count++;
-        }
-        if(!s.empty()&& count>0)
-        {
-            count--;
         }
         else
         {
