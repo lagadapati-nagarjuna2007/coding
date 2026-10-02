@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minAddToMakeValid(string s) {
-        int i;
+        int i,count=0;
         stack<char>st;
         for(i=0;i<s.size();i++)
         {
@@ -15,9 +15,9 @@ public:
             }
             else
             {
-                st.push(')');
+                count++;
             }
         }
-        return st.size();
+        return st.size()+count;
     }
 };
