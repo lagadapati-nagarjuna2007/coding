@@ -73,6 +73,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0680-valid-palindrome-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1544-make-the-string-great](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/1544-make-the-string-great/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +197,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0739-daily-temperatures](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1544-make-the-string-great](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/1544-make-the-string-great/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
