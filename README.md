@@ -73,6 +73,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0438-find-all-anagrams-in-a-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/1544-make-the-string-great/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -181,6 +182,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0011-container-with-most-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +201,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0735-asteroid-collision](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/1544-make-the-string-great/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -267,4 +270,5 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0020-valid-parentheses/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
