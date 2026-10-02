@@ -74,6 +74,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0844-backspace-string-compare](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/1544-make-the-string-great/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +199,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0844-backspace-string-compare](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/1544-make-the-string-great/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +238,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0844-backspace-string-compare) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 | Problem Name | Difficulty |
