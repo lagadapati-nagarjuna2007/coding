@@ -197,6 +197,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0084-largest-rectangle-in-histogram](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0735-asteroid-collision) |
@@ -274,4 +275,12 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0020-valid-parentheses](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0020-valid-parentheses/) | Easy |
 | [0856-score-of-parentheses](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
