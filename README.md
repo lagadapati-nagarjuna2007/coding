@@ -196,6 +196,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0042-trapping-rain-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0496-next-greater-element-i) |
@@ -278,9 +279,11 @@ This repository is automatically updated with my accepted LeetCode submissions u
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
