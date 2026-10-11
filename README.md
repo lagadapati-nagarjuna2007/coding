@@ -132,6 +132,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0904-fruit-into-baskets](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -207,6 +208,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0856-score-of-parentheses](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1381-design-a-stack-with-increment-operation](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1544-make-the-string-great](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/1544-make-the-string-great/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Monotonic Stack
@@ -281,6 +283,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [1381-design-a-stack-with-increment-operation](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
