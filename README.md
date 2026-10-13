@@ -70,6 +70,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0125-valid-palindrome](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0394-decode-string/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0844-backspace-string-compare) |
@@ -200,6 +201,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | [0225-implement-stack-using-queues](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0394-decode-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0735-asteroid-collision) |
@@ -289,4 +291,8 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->
