@@ -1,18 +1,22 @@
 class Solution {
 public:
     int calculate(string s) {
-        stack<int>st;
-        int ans=0;
-        int i,num=0;
+        int num=0;
         char op='+';
+        stack<int>st;
+        int ans=0,i;
         for(i=0;i<=s.size();i++)
         {
-            char ch= (i==s.length())?'+':s[i];
+            char ch= (i==s.size())?'+':s[i];
+            if (ch == ' ')
+            {
+                continue;
+            }
             if(isdigit(ch))
             {
                 num=num*10+(ch-'0');
             }
-            else if(ch!=' ')
+            else
             {
                 if(op=='+')
                 {
@@ -24,21 +28,21 @@ public:
                 }
                 else if(op=='*')
                 {
-                    int tp=st.top();
+                    int mul=st.top();
                     st.pop();
-                    st.push(tp*num);
+                    st.push(num*mul);
                 }
                 else
                 {
-                    int tp=st.top();
+                    int div=st.top();
                     st.pop();
-                    st.push(tp/num);
+                    st.push(div/num);
                 }
-                num=0;
                 op=ch;
+                num=0;
             }
         }
-        for(i=st.size()-1;i>=0;i--)
+        while(!st.empty())
         {
             ans+=st.top();
             st.pop();
