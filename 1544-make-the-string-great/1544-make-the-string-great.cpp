@@ -1,31 +1,23 @@
 class Solution {
 public:
     string makeGood(string s) {
-        stack<char>st;
+        string str="";
         int i;
         for(i=0;i<s.size();i++)
         {
-            if(!st.empty()&& (int)st.top()<=91 && s[i]==tolower(st.top()))
+            if(!str.empty()&& (int)str.back()<=91 && s[i]==tolower(str.back()))
             {
-                st.pop();
+                str.pop_back();
             }
-            else if(!st.empty()&& (int)s[i]<=91 && st.top()==tolower(s[i]))
+            else if(!str.empty()&& (int)s[i]<=91 && str.back()==tolower(s[i]))
             {
-                st.pop();
+                str.pop_back();
             }
             else
             {
-                st.push(s[i]);
+                str.push_back(s[i]);
             }
         } 
-        string str(st.size(),' ');
-        int j=st.size()-1;
-        while(!st.empty())
-        {
-            str[j]=st.top();
-            st.pop();
-            j--;
-        }
         return str;
 
     }
