@@ -5,7 +5,7 @@ public:
         int i;
         for(i=0;i<s.size();i++)
         {
-            if(!st.empty()&& (int)st.top()<=91 && tolower(st.top())==s[i])
+            if(!st.empty()&& (int)st.top()<=91 && s[i]==tolower(st.top()))
             {
                 st.pop();
             }
@@ -17,9 +17,9 @@ public:
             {
                 st.push(s[i]);
             }
-        }
-        int j=st.size()-1;
+        } 
         string str(st.size(),' ');
+        int j=st.size()-1;
         while(!st.empty())
         {
             str[j]=st.top();
@@ -27,5 +27,6 @@ public:
             j--;
         }
         return str;
+
     }
 };
