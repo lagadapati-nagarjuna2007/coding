@@ -67,6 +67,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0125-valid-palindrome](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -193,12 +194,14 @@ This repository is automatically updated with my accepted LeetCode submissions u
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0410-split-array-largest-sum) |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lagadapati-nagarjuna2007/coding/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -286,6 +289,7 @@ This repository is automatically updated with my accepted LeetCode submissions u
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0856-score-of-parentheses](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lagadapati-nagarjuna2007/coding/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Design
